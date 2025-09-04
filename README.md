@@ -9,6 +9,7 @@
 I have decided on an EDM now playing screen. My design mtches the vibe well.
 
 ## Screenshot
+<img width="375" height="640" alt="image" src="https://github.com/user-attachments/assets/8f3d20b7-c382-4086-a877-cc032b9e8a32" />
 
 ## reference list
 MDN Web Docs (2025) HTML: HyperText Markup Language. Mozilla Developer Network. Available at: https://developer.mozilla.org/en-US/docs/Web/HTML
